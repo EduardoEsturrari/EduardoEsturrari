@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi There!! 👋 ###
 
-<!--
-**EduardoEsturrari/EduardoEsturrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm Marcelo Eduardo Esturrari. A Systems analysis and Development student in my first period. I have a complete Mechatronics Technician course. 🎓
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Since i descovery the Development world i fell in love for programming. 💻
+ 
+ I've started studying development in 2021. I'm currently learning HTML5 / CSS3 / JavaScript. 
+ 
+ Looking for Front-End intern job.
+ 
+ Hope i can help you with everything i can!
+ 
+ You can contact me anytime at my Linkedin: https://www.linkedin.com/in/marcelo-esturrari-3271ba197/.
+ 
+ Cya! 😊
