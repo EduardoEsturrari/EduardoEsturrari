@@ -1,6 +1,6 @@
 ### Hi There!! 👋 ###
 
- I'm Marcelo Eduardo Esturrari. A Systems analysis and Development student in my first period. I have a complete Mechatronics Technician course. 🎓
+ I'm Marcelo Eduardo Esturrari. A Systems analysis and Development student in my first period. 🎓
 
  Since i descovery the Development world i fell in love for programming. 💻
  
