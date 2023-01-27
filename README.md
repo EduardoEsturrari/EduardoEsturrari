@@ -6,10 +6,6 @@
  
  I've started studying development in 2021. I'm currently learning HTML5 / CSS3 / JavaScript. 
  
- Looking for Front-End intern job.
- 
- Hope i can help you with everything i can!
- 
  You can contact me anytime at my Linkedin: https://www.linkedin.com/in/marcelo-esturrari-3271ba197/.
  
  Cya! 😊
